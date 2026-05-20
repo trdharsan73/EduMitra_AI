@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+requests
+PyPDF2
+openai
