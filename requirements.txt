@@ -5,3 +5,6 @@ requests
 PyPDF2
 openai
 python-dotenv
+langchain
+langchain-community
+chromadb
