@@ -4,3 +4,4 @@ numpy
 requests
 PyPDF2
 openai
+python-dotenv
